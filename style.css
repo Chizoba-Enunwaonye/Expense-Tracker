@@ -1,0 +1,22 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+    color: black;
+    background-color: blueviolet;  
+}
+
+p {
+    color: black;
+    font-weight: bold;
+    font-weight: 600;   
+}
+
+form{
+    margin-bottom: 20px;
+}
+
+form input,form button{
+    display: block;
+    margin-bottom: 10px;
+}
+
